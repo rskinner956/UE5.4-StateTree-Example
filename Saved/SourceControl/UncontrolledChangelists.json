@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/StarterContent/Props/MaterialSphere.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/Enemy/PathMarker.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/Enemy/AC_PatrolPath.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/Enemy/BP_PatrolChar.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/JZJ0RTD1XA4ZC4DAJ0HGFN.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AR/9T6U5U3U4YXEY4I55TJJVP.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/36/Y4DH1XXVZ3HAALGNAA6T0C.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/6Z/WMJ9E0X6C9X23KNM3EF5BL.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/92/QZUVXXSKOR71T4053BEIHN.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MV/GLGVRCRJ9FTV2PKTXNCUG2.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/F7/WDIEQEDYAFXEYOM4TR6J97.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DX/E6LDWTV5OVAQOZJQWMHRPB.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/Enemy/ST_PatrolChar.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/Enemy/STT_MoveTo.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/ST_PatrolChar.uasset"
+			]
+		}
+	]
+}
