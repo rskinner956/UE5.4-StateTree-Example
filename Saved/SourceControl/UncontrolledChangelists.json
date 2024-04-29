@@ -21,7 +21,10 @@
 				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/Enemy/STT_MoveTo.uasset",
 				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/ST_PatrolChar.uasset"
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/ST_PatrolChar.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/BP_PatrolChar.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/STT_Tasks/STT_RotateToFace.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/STT_Tasks/STT_ChasePlayer.uasset"
 			]
 		}
 	]
