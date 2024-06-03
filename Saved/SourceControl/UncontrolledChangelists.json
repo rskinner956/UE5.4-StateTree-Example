@@ -24,7 +24,10 @@
 				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/ST_PatrolChar.uasset",
 				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/BP_PatrolChar.uasset",
 				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/STT_Tasks/STT_RotateToFace.uasset",
-				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/STT_Tasks/STT_ChasePlayer.uasset"
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/STT_Tasks/STT_ChasePlayer.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UA/JZJ0RTD1XA4ZC4DAJ0HGFN.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/Enemy/AI_PatroloChar_Controller.uasset",
+				"E:/Ryan Skinner/Documents/Unreal Projects/StateTreeExample 5.4/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
 	]
